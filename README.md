@@ -1,2 +1,16 @@
-# data_cleaning_using_sql
-This project showcases data cleaning of a laptop dataset using SQL, where unnecessary columns and null rows were removed, data types were standardized, and fields like RAM, Weight, CPU, GPU, Storage, Screen Resolution, and Operating System were cleaned and transformed into structured formats to prepare the data for analysis.
+# 💻 Laptop Dataset Cleaning Using SQL
+This project involves comprehensive data cleaning and transformation of a laptop dataset using pure SQL. Key tasks performed include:
+
+Dropping unnecessary columns and NULL-filled rows
+
+Standardizing data types (e.g., converting RAM and Weight to numeric formats)
+
+Cleaning and formatting fields (e.g., removing "GB", "kg", rounding prices)
+
+Categorizing and simplifying OS, GPU, CPU, and memory info
+
+Extracting resolution, touchscreen, and storage components into structured columns
+
+Creating backup tables and checking storage size
+
+This project demonstrates practical data preprocessing techniques using SQL—essential for real-world data analytics workflows.
